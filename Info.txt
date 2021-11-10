@@ -1,0 +1,7 @@
+Database : tank2021
+table : tanktable
+
+column :
+area
+tanksize
+tanktype
